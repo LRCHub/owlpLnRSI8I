@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "希望の歌",
+  "base_artist": "岸田教団&THE明星ロケッツ",
+  "createdAt": "2025-12-17T06:03:26.238151Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "HERO ~希望の歌~ -Short Ver.-",
+      "artist": "FLOW",
+      "has_synced": false,
+      "path": "select/01_HERO_~希望の歌~_-Short_Ver.-_FLOW.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "HERO 〜希望の歌〜",
+      "artist": "FLOW",
+      "has_synced": true,
+      "path": "select/02_HERO_〜希望の歌〜_FLOW.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "HERO ～希望の歌～",
+      "artist": "FLOW",
+      "has_synced": true,
+      "path": "select/03_HERO_~希望の歌~_FLOW.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "希望の歌",
+      "artist": "岸田教団&THE明星ロケッツ",
+      "has_synced": true,
+      "path": "select/04_希望の歌_岸田教団&THE明星ロケッツ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "HERO ～希望の歌～",
+      "artist": "FLOW",
+      "has_synced": true,
+      "path": "select/05_HERO_~希望の歌~_FLOW.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "HERO ～希望の歌～",
+      "artist": "FLOW",
+      "has_synced": true,
+      "path": "select/06_HERO_~希望の歌~_FLOW.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "HERO 〜希望の歌〜 - Hero -Kibou No Uta",
+      "artist": "FLOW",
+      "has_synced": true,
+      "path": "select/07_HERO_〜希望の歌〜_-_Hero_-Kibou_No_Uta_FLOW.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "HERO 〜希望の歌〜",
+      "artist": "FLOW",
+      "has_synced": true,
+      "path": "select/08_HERO_〜希望の歌〜_FLOW.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "HERO 〜希望の歌〜",
+      "artist": "FLOW",
+      "has_synced": true,
+      "path": "select/09_HERO_〜希望の歌〜_FLOW.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "希望の歌",
+      "artist": "B’z",
+      "has_synced": true,
+      "path": "select/10_希望の歌_B’z.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "希望の歌",
+      "artist": "B'z - Singles",
+      "has_synced": true,
+      "path": "select/11_希望の歌_B'z_-_Singles.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "希望の歌",
+      "artist": "岸田教団 & THE 明星ロケッツ",
+      "has_synced": false,
+      "path": "select/pl_01_希望の歌_岸田教団_&_THE_明星ロケッツ.txt"
+    }
+  ]
+}
